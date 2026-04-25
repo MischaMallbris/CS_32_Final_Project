@@ -1,2 +1,2 @@
 # CS_32_Final_Project
-A choose your own adventure game
+I am creating a choose your own adventure game
